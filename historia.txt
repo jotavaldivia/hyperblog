@@ -1,7 +1,6 @@
 Hola soy juan
 
 
-estudiando Git y Github
+estudiando git
 
-
-soy otra linea holaa y otro hola
+mañana nos enfocaremos en su vida laboral
